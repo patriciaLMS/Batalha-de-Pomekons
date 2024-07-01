@@ -1,6 +1,6 @@
 import os
 os.system("cls")
-print("### Bem-Vindo ao Game PomeKon ###")
+print("#### Bem-Vindo ao Game PomeKon ####")
 
 bonus =int(input("Informe o Bônus da Partida: "))
 ataqueDabriel = int(input("Dabriel - Ataque: "))
